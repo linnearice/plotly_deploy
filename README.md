@@ -1,4 +1,4 @@
-Bacteria to Beef
+### Bacteria to Beef
 
 Roza a biological researcher in a prominent microbiology lab, has been assigned the role of discovering and documenting bacterial species that have the ability to synthesize protein and specifically those that taste like beef.  Roza's lab has partnered with Improbable Beef to conduct this study.  Roza hypothesizes a good bacterial candidate may be found on the human body inside the human belly button.
 
